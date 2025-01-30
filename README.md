@@ -15,7 +15,7 @@ Os dados foram tratados e modelados diretamente no Power BI, garantindo uma estr
 🖥 Power BI - Utilizado para visualização e análise de dados.<br> 🔄 Power Query - Responsável pela transformação e modelagem dos dados.<br>
 
 # 📌 Como Usar
-1️⃣ Entre na pasta dashboard4.<br> 2️⃣ Baixe o arquivo .pbix e abra no Power BI Desktop.<br> 3️⃣ Explore os gráficos interativos e ajuste os filtros conforme necessário.<br> 4️⃣ Personalize o dashboard conforme a necessidade do seu projeto.<br>
+1️⃣ Entre na pasta dashboard3.<br> 2️⃣ Baixe o arquivo .pbix e abra no Power BI Desktop.<br> 3️⃣ Explore os gráficos interativos e ajuste os filtros conforme necessário.<br> 4️⃣ Personalize o dashboard conforme a necessidade do seu projeto.<br>
 
 # 📢 Contato
 Caso tenha dúvidas, sugestões ou queira contribuir, fique à vontade para:
